@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">motion_week8</string>
+    <string name="textview">TextView</string>
+    <string name="my_video_title">My Video Title</string>
+</resources>
